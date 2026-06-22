@@ -9,9 +9,12 @@ En sí, para este caso, se utilizará un ataque de XSS reflejado, el cual ocurre
 ## Imagen Referencial del Caso
 
 - Ingreso del script
+
 ![XSS](img_berjes/XSS_berjes_1.png)
 
+
 - Resultado
+
 ![XSS](img_berjes/XSS_berjes_2.png)
 
 ## Referencias Bibliográficas

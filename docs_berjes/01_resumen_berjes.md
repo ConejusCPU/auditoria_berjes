@@ -32,6 +32,8 @@ En conformidad a esto, se documentará evidencia técnica, grado de severidad, c
 
 ## 4. Importancia y Justificación de Auditoría
 
+
+
 ## 5. Activos en juego (vista preliminar)
 
 - Fichas clínicas electrónicas (diagnósticos, antecedentes, alergias)
@@ -39,7 +41,6 @@ En conformidad a esto, se documentará evidencia técnica, grado de severidad, c
 - Datos de identificación de pacientes (RUT, nombre, dirección, contacto)
 - Credenciales de acceso de personal médico y administrativo
 - Disponibilidad del sistema de agendamiento (continuidad de atención)
-
 
 ## 6. Bibliografía Consultada
 

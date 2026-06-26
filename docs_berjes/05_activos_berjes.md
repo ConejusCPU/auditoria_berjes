@@ -24,6 +24,8 @@ Apunta a los datos mismos generados, almacenados y procesados por la clínica me
 | D_5 | Historial de agendamiento | Registro de horas médicas solicitadas y atendidas | Interno |
 | D_6 | Registros de auditoría del sistema | Logs de acceso, modificaciones y eventos del portal | Interno |
 
+---
+
 ### 2. Activos de Software
 
 Corresponden a las aplicaciones y sistemas que procesan, almacenan o transmiten los datos de la clínica.
@@ -34,6 +36,8 @@ Corresponden a las aplicaciones y sistemas que procesan, almacenan o transmiten 
 | S_2 | Motor de base de datos | Sistema gestor que almacena toda la información clínica | Crítico |
 | S_3 | Sistema de agendamiento | Módulo de gestión de horas y agenda médica | Importante |
 | S_4 | Sistema operativo del servidor | Plataforma sobre la que corren todos los servicios web | Crítico |
+
+---
 
 ### 3. Activos de Infraestructura
 
@@ -46,6 +50,8 @@ de la clínica.
 | I_2 | Servidor de base de datos | Almacena las fichas clínicas, exámenes y credenciales | Crítico |
 | I_3 | Sistema de copias de respaldo | Backups periódicos de la base de datos y archivos del servidor | Importante |
 | I_4 | Infraestructura de red | Conexiones, firewall y configuración de acceso al servidor | Importante |
+
+---
 
 ### 4. Clasificación de Activos
 
@@ -66,6 +72,8 @@ de la clínica.
 | I_3 | Sistema de copias de respaldo | 2 | 3 | 2 | **Alta** |
 | I_4 | Infraestructura de red | 2 | 2 | 3 | **Alta** |
 
+---
+
 ## Marco Legal Regulatorio
 
 Las principales normas aplicables (en conformidad a la regulación nacional) son:
@@ -81,6 +89,8 @@ necesarios para garantizar su seguridad.
 En su artículo N°2, se consagra el derecho de toda persona a que los datos sobre su salud sean tratados de manera confidencial, estableciéndose expresamente que la ficha clínica es un instrumento de uso estrictamente médico y que su contenido es
 reservado. Una filtración de fichas clínicas constituye una infracción
 directa a esta ley, con consecuencias legales para la institución.
+
+---
 
 ## Recursos Bibliográficos
 

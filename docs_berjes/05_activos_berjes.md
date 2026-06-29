@@ -4,10 +4,9 @@
 
 Cada activo se evalúa según la triada CIA (ISO, 2022) en una escala de 1 a 3:
 
-- **1 — Bajo:** el impacto de su compromiso es menor o recuperable fácilmente.
-- **2 — Medio:** el impacto es significativo pero acotado.
-- **3 — Alto:** el impacto es severo, con consecuencias legales, económicas
-  o de continuidad operacional.
+- 1.Bajo: el impacto de su compromiso es menor o recuperable fácilmente.
+- 2.Medio: el impacto es significativo pero acotado.
+- 3.Alto: el impacto es severo, con consecuencias legales, económicas o de continuidad operacional.
 
 La **criticidad total** se determina por el valor máximo entre los tres criterios.
 

@@ -30,11 +30,7 @@ Esta auditoría se realiza sobre una réplica del portal de clientes, desplegada
 
 En conformidad a esto, se documentará evidencia técnica, grado de severidad, causas raíces y medidas de prevención/mitigación, en las secciones siguientes de este informe.
 
-## 4. Importancia y Justificación de Auditoría
-
-
-
-## 5. Activos en juego (vista preliminar)
+## 4. Activos en juego (vista preliminar)
 
 - Fichas clínicas electrónicas (diagnósticos, antecedentes, alergias)
 - Resultados de exámenes de laboratorio e imagenología
@@ -42,7 +38,7 @@ En conformidad a esto, se documentará evidencia técnica, grado de severidad, c
 - Credenciales de acceso de personal médico y administrativo
 - Disponibilidad del sistema de agendamiento (continuidad de atención)
 
-## 6. Bibliografía Consultada
+## 5. Bibliografía Consultada
 
 1. Congreso Nacional de Chile. (09 de mayo de 2023). Ley no. 19.628. Sobre Proteccion de la Vida Privada. 28 de agosto de 1999. https://bcn.cl/2eqfn
 

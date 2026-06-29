@@ -244,7 +244,7 @@ function App() {
           <p className="eyebrow">Auditoría BERJES</p>
           <h1>Portal navegable de documentación de seguridad</h1>
           <p className="hero-copy">
-            Explora cada informe desde un único panel con una experiencia visual inspirada en Matrix.
+            Auditoría de seguridad realizada a Clínica Vista Hermosa
           </p>
         </div>
       </header>
